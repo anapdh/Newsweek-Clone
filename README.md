@@ -1,6 +1,6 @@
 
 
-![](https://img.shields.io/badge/Microverse-blueviolet)
+![](https://img.shields.io/badge/Microverse-blueviolet) ![](https://img.shields.io/badge/Bootstrap-purple)
 
 
 # Newsweek Clone Webpage.
