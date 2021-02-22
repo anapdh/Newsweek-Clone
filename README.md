@@ -34,7 +34,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://gnwin.github.io/Godwin-Ana-Hubner-Newsweek-project/)
+[Live Demo Link](https://anapdh.github.io/Newsweek-Clone/)
 
 
 ## Authors
